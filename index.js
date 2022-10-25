@@ -17,11 +17,12 @@ app.get('/category', (req, res)=>{
 })
 
 app.get('/category/:id', (req, res)=>{
-    
+
     const id = req.params.id;
     const singleCategory = course?.find(category=> id == category.id);
     // console.log(singleCategory);
     if(id == 09){
+
         res.send(course);
     }else{
         res.send(singleCategory);

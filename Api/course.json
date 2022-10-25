@@ -1,0 +1,98 @@
+[
+    {
+        "id": "01",
+        "techer": "Liam",
+        "subject": "Javascript",
+        "img": "https://dejanstojanovic.net/media/131814/16x9.png",
+        "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.",
+        "totalStudent":"300",
+        "price": "100",
+        "courseTime": "670h",
+        "accessTime": "life-time",
+        "support": "All Time"
+    },
+    {
+        "id": "02",
+        "techer": "Noah",
+        "subject": "C++",
+        "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
+        "details": "C++ is an object-oriented programming (OOP) language that is viewed by many as the best language for creating large-scale applications. C++ is a superset of the C language. A related programming language, Java, is based on C++ but optimized for the distribution of program objects in a network such as the Internet. Java is somewhat simpler and easier to learn than C++ and has characteristics that give it other advantages over C++. However, both languages require a considerable amount of study.",
+        "totalStudent":"300",
+        "price": "130",
+        "courseTime": "700h",
+        "accessTime": "life-time",
+        "support": "All Time"
+    },
+    {
+        "id": "03",
+        "techer": "William",
+        "subject": "C",
+        "img": "https://i1.wp.com/tutorial.eyehunts.com/wp-content/uploads/2019/01/C-programming-important-features.png?fit=750%2C519&ssl=1",
+        "details": "What is C Programming Langauge? C is a general-purpose programming language that is extremely popular, simple, and flexible to use. It is a structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows, and many other complex programs like Oracle database, Git, Python interpreter, and more.It is said that ‘C’ is a god’s programming language. One can say, C is a base for the programming. If you know ‘C,’ you can easily grasp the knowledge of the other programming languages that uses the concept of ‘C’It is essential to have a background in computer memory mechanisms because it is an important aspect when dealing with the C programming language.",
+        "totalStudent":"300",
+        "price": "110",
+        "courseTime": "650h",
+        "accessTime": "life-time",
+        "support": "All Time"
+    },
+    {
+        "id": "04",
+        "techer": "Elijah",
+        "subject": "python",
+        "img": "https://digitalmarketingdeal.com/blog/wp-content/uploads/2019/12/What-is-python.png",
+        "details": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed. Often, programmers fall in love with Python because of the increased productivity it provides. Since there is no compilation step, the edit-test-debug cycle is incredibly fast. Debugging Python programs is easy: a bug or bad input will never cause a segmentation fault. Instead, when the interpreter discovers an error, it raises an exception. When the program doesn't catch the exception, the interpreter prints a stack trace. A source level debugger allows inspection of local and global variables, evaluation of arbitrary expressions, setting breakpoints, stepping through the code a line at a time, and so on. The debugger is written in Python itself, testifying to Python's introspective power. On the other hand, often the quickest way to debug a program is to add a few print statements to the source: the fast edit-test-debug cycle makes this simple approach very effective.",
+        "totalStudent":"300",
+        "price": "90",
+        "courseTime": "500h",
+        "accessTime": "life-time",
+        "support": "All Time"
+    },
+    {
+        "id": "05",
+        "techer": "James",
+        "subject": "PHP",
+        "img": "https://easytolearning.com/ck_files/files/what-is-php.jpg",
+        "details": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.Instead of lots of commands to output HTML (as seen in C or Perl), PHP pages contain HTML with embedded code that does something (in this case, output Hi, I'm a PHP script! The PHP code is enclosed in special start and end processing instructions <?php and ?> that allow you to jump into and out of PHP mode.What distinguishes PHP from something like client-side JavaScript is that the code is executed on the server, generating HTML which is then sent to the client. The client would receive the results of running that script, but would not know what the underlying code was. You can even configure your web server to process all your HTML files with PHP, and then there's really no way that users can tell what you have up your sleeve. The best part about using PHP is that it is extremely simple for a newcomer, but offers many advanced features for a professional programmer. Don't be afraid to read the long list of PHP's features. You can jump in, in a short time, and start writing simple scripts in a few hours.Although PHP's development is focused on server-side scripting, you can do much more with it. Read on, and see more in the What can PHP do? section, or go right to the introductory tutorial if you are only interested in web programming.",
+        "totalStudent":"300",
+        "price": "500",
+        "courseTime": "790h",
+        "accessTime": "life-time",
+        "support": "All Time"
+    },
+    {
+        "id": "06",
+        "techer": "Henry",
+        "subject": "Ruby",
+        "img": "https://www.devopsschool.com/blog/wp-content/uploads/2022/03/eb9e3b7dab09358e7cf13f188f64f9f4.png",
+        "details": "Ruby is an open-source object-oriented scripting language invented in the mid-90s by Yukihiro Matsumoto. Unlike languages such as C and C++, a scripting language doesn’t talk directly to hardware. It’s written to a text file and then parsed by an interpreter and turned into code. These programs are generally procedural in nature, meaning they are read from top to bottom.  Object-oriented languages, on the other hand, break out pieces of code into objects that can be created and used as needed. You can reuse these objects in other parts of the program, or even other applications.Yukihiro wanted to create a scripting language that leveraged object-oriented programming and increase code reuse to help speed up development. And so the Ruby programming language was born, using simple language and syntax to handle data and logic to solve problems.",
+        "totalStudent":"300",
+        "price": "600",
+        "courseTime": "700h",
+        "accessTime": "life-time",
+        "support": "All Time"
+    },
+    {
+        "id": "07",
+        "techer": "Theodore",
+        "subject": "Swift",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfnFFZGH5zqD3tit53K5uJVVrgTetE3TsSg&usqp=CA",
+        "details": "Swift is the result of the latest research on programming languages, combined with decades of experience building Apple platforms. Named parameters are expressed in a clean syntax that makes APIs in Swift even easier to read and maintain. Even better, you don’t even need to type semi-colons. Inferred types make code cleaner and less prone to mistakes, while modules eliminate headers and provide namespaces. To best support international languages and emoji, Strings are Unicode-correct and use a UTF-8 based encoding to optimize performance for a wide-variety of use cases. Memory is managed automatically using tight, deterministic reference counting, keeping memory usage to a minimum without the overhead of garbage collection. You can even write concurrent code with simple, built-in keywords that define asynchronous behavior, making your code more readable and less error-prone.",
+        "totalStudent":"300",
+        "price": "500",
+        "courseTime": "700h",
+        "accessTime": "life-time",
+        "support": "All Time"
+    },
+    {
+        "id": "08",
+        "techer": "Benjamin",
+        "subject": "Java",
+        "img": "https://i0.wp.com/marketbusinessnews.com/wp-content/uploads/2020/07/Learn-Java-programming-language-image-for-article-498498b9484.jpg?fit=675%2C428&ssl=1",
+        "details": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc. What is Java Platform? Java Platform is a collection of programs that help programmers to develop and run Java programming applications efficiently. It includes an execution engine, a compiler, and a set of libraries in it. It is a set of computer software and specifications. James Gosling developed the Java platform at Sun Microsystems, and the Oracle Corporation later acquired it.",
+        "totalStudent":"300",
+        "price": "300",
+        "courseTime": "700h",
+        "accessTime": "life-time",
+        "support": "All Time"
+    }
+]

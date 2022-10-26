@@ -8,6 +8,10 @@ app.use(cors());
 const course = require('./Api/course.json');
 const categoryCours = require('./Api/categori.json')
 
+app.get('/', (req, res)=>{
+  res.send('Server is running');
+})
+
 app.get('/course', (req, res) => {
   res.send(course);
 

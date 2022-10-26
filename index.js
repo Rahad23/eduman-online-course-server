@@ -10,6 +10,7 @@ const categoryCours = require('./Api/categori.json')
 
 app.get('/course', (req, res) => {
   res.send(course);
+  
 })
 
 app.get('/category', (req, res)=>{
